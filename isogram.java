@@ -11,7 +11,7 @@ public class MyClass {
             count++;  
           } 
        }
-        if(count==0) System.out.println("yes");
-           else System.out.println("no");
+        if(count==0) System.out.println("Yes");
+           else System.out.println("No");
     }
 }
